@@ -52,4 +52,4 @@ A web application that summarizes text using AI. Built with React, Flask, and La
    cd backend
    python app.py
    ```
-   
+![ web_app_image](text_summarizer.png)
